@@ -16,7 +16,7 @@ library(tidyverse)
 ### Import data
 ##################################################
 
-slid = read_csv("https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/slid.csv")
+slid = read_csv("https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/slid.csv")
 
 # View data
 slid

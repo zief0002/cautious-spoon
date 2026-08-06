@@ -16,7 +16,7 @@ library(patchwork)
 ##################################################
 
 # Import data
-contraception = read_csv(file = "https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/contraception.csv")
+contraception = read_csv(file = "https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/contraception.csv"))
 
 
 # Create dummy variable for GNI indicator and single letter variable

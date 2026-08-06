@@ -14,7 +14,7 @@ library(patchwork)
 ### Import and prepare data
 ##################################################
 
-eeo = read_csv("https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/equal-education-opportunity.csv")
+eeo = read_csv("https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/equal-education-opportunity.csv")
 
 # View data
 eeo

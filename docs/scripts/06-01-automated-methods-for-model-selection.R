@@ -13,7 +13,7 @@ library(tidymodels) # Loads broom, rsample, parsnip, recipes, workflow, tune, ya
 ### Import and prepare data
 ##################################################
 
-usa = read_csv("https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/states-2019.csv")
+usa = read_csv("https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/states-2019.csv")
 
 # View data
 usa

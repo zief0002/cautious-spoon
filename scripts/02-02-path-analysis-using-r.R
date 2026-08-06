@@ -13,7 +13,7 @@ library(lavaan)
 ### Import simulated data
 ##################################################
 
-keith = read_csv("https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/path-model-achievement.csv")
+keith = read_csv("https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/path-model-achievement.csv")
 keith
 
 

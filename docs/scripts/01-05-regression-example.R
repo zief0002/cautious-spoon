@@ -12,7 +12,7 @@ library(patchwork)
 ### Import and prepare data
 ##################################################
 
-contraception = read_csv("https://raw.githubusercontent.com/zief0002/symmetrical-fiesta/main/data/contraception.csv")
+contraception = read_csv("https://raw.githubusercontent.com/zief0002/cautious-spoon/main/data/contraception.csv")
 
 # View data
 contraception
